@@ -12,3 +12,4 @@ Socket.IO allows the server to push information to the client in real time, when
 
 Without Socket.IO, the client would have to make multiple polling AJAX calls to verify that the event has occured on the server.
 
+Socket.IO means that the client doesn't have to make multiple polling AJAX calls to verify if some event has occured on the server. Instead, the server sends the infor to the client as soon as it gets it.
