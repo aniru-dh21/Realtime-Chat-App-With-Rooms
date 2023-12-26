@@ -52,3 +52,5 @@ npm run dev
 1. First, <a href="https://studio.harperdb.io/">create an account with HarperDB</a>.
 
 2. Click on the "Create New HarperDB Cloud Instance" button located in your HarperDB studio.
+
+3. Choose the suitable instance type and then proceed by clicking on the button labled as AWS or verizon Wavelength HarperDB instance.
