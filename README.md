@@ -56,3 +56,5 @@ npm run dev
 3. Choose the suitable instance type and then proceed by clicking on the button labled as AWS or verizon Wavelength HarperDB instance.
 
 4. Select the cloud provider (I selected AWS), and click the instance to add the detail of your instance.
+
+5. Enter the instance and click the Instance Details button and also create create your instance credentials.
