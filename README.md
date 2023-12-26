@@ -19,3 +19,6 @@ So, Socket.IO allows us to easily build real time applications, such as chat app
 ## Project Setup
 
 1. Clone the repository to the local machine by either downloading the ZIP File or using the following git command:
+```
+git clone https://github.com/aniru-dh21/Realtime-Chat-App-With-Rooms.git
+```
