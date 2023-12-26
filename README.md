@@ -68,3 +68,5 @@ npm run dev
 In order for you to be able to save messages in HarperDB, you'll need your HarperDB instance URL, and your API password.
 
 In your HarperDB dashboard, click on your instance, then go to "config". You will find your instance URL, and your instance API Auth Header - that is, your "super_user" password that allows you to make any request to the database.
+
+Create the following files and add your HarperDB URL and password as shown in file `Sample.env`.
