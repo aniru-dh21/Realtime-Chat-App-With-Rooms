@@ -1,3 +1,3 @@
-# Realtime-Chat-App-With-Rooms
+# Real-Time Chat App with React, Node, Socket.io, and HarperDB
 
-Built with create-react-app, expressjs, socketIO, and HarperDB
+Tools used to Build this App:
