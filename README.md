@@ -50,3 +50,5 @@ npm run dev
 ## How to set up HarperDB
 
 1. First, <a href="https://studio.harperdb.io/">create an account with HarperDB</a>.
+
+2. Click on the "Create New HarperDB Cloud Instance" button located in your HarperDB studio.
