@@ -58,3 +58,5 @@ npm run dev
 4. Select the cloud provider (I selected AWS), and click the instance to add the detail of your instance.
 
 5. Enter the instance and click the Instance Details button and also create create your instance credentials.
+
+6. HarperDB has a generous free tier that we can use for this project, so select that.
