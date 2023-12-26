@@ -62,3 +62,5 @@ npm run dev
 6. HarperDB has a generous free tier that we can use for this project, so select that.
 
 7. Check your details are correct, then create the instance.
+
+## How to Set Up HarperDB Environment Variables ?
