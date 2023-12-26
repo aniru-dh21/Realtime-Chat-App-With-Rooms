@@ -24,3 +24,6 @@ git clone https://github.com/aniru-dh21/Realtime-Chat-App-With-Rooms.git
 ```
 
 2. Change your Present working directory to the client Folder and install the dependencies using npm:
+```
+npm install
+```
