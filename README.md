@@ -48,3 +48,5 @@ npm run dev
 7. Webpack will build the React app and server it to <ins>http://localhost:4000/</ins>
 
 ## How to set up HarperDB
+
+1. First, <a href="https://studio.harperdb.io/">create an account with HarperDB</a>.
