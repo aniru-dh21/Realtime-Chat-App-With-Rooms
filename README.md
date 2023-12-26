@@ -41,3 +41,6 @@ npm install
 ```
 
 6. Now, let's boot up the server by running the following command:
+```
+npm run dev
+```
