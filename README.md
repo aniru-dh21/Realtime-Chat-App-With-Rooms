@@ -27,3 +27,5 @@ git clone https://github.com/aniru-dh21/Realtime-Chat-App-With-Rooms.git
 ```
 npm install
 ```
+
+3. Run the following command to boot up the frontend:
