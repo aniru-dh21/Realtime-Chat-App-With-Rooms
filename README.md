@@ -29,3 +29,6 @@ npm install
 ```
 
 3. Run the following command to boot up the frontend:
+```
+npm start
+```
