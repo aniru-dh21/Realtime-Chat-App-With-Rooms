@@ -7,3 +7,5 @@ Tools used to Build this App:
 - **Realtime Communication**: Socket.io
 
 ## What is Socket.io?
+
+Socket.io allows the server to push information to the client in real time, when events occur on the server.
