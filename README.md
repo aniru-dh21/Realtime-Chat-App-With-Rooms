@@ -17,3 +17,5 @@ Socket.IO means that the client doesn't have to make multiple polling AJAX calls
 So, Socket.IO allows us to easily build real time applications, such as chat apps and multiplayer games.
 
 ## Project Setup
+
+1. Clone the repository to the local machine by either downloading the ZIP File or using the following git command:
