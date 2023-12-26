@@ -60,3 +60,5 @@ npm run dev
 5. Enter the instance and click the Instance Details button and also create create your instance credentials.
 
 6. HarperDB has a generous free tier that we can use for this project, so select that.
+
+7. Check your details are correct, then create the instance.
