@@ -34,3 +34,5 @@ npm start
 ```
 
 4. Webpack will build the React app and serve it to <ins>http://localhost:3000</ins>
+
+5. Then change your Present working directory to the server Folder and install the dependencies using npm:
