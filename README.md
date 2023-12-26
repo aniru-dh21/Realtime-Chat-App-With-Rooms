@@ -64,3 +64,5 @@ npm run dev
 7. Check your details are correct, then create the instance.
 
 ## How to Set Up HarperDB Environment Variables ?
+
+In order for you to be able to save messages in HarperDB, you'll need your HarperDB instance URL, and your API password.
