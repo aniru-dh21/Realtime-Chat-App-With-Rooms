@@ -44,3 +44,5 @@ npm install
 ```
 npm run dev
 ```
+
+7. Webpack will build the React app and server it to <ins>http://localhost:4000/</ins>
