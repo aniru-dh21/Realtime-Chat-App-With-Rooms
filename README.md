@@ -22,3 +22,5 @@ So, Socket.IO allows us to easily build real time applications, such as chat app
 ```
 git clone https://github.com/aniru-dh21/Realtime-Chat-App-With-Rooms.git
 ```
+
+2. Change your Present working directory to the client Folder and install the dependencies using npm:
